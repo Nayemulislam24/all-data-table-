@@ -16,9 +16,6 @@ $primaryKey = 'id';
 ## $row single row return from database. 
 ## The `db` parameter represents the column name in the database.  
 ## The `dt` parameter represents the DataTables column identifier. 
-
-
-
 $columns = array(
     0 => "id",
     1 => "name",

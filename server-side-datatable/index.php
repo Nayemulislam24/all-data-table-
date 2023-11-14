@@ -15,7 +15,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h2 class="text-center">Between DataTable</h2>
+            <h2 class="text-center">Between Server Side  DataTable</h2>
             <div class="row" style="margin-top: 20px;">
                 <div class="col-md-6">
                     <h4 class="text-center">Custom Server Side DataTable</h4>
