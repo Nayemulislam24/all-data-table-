@@ -31,6 +31,7 @@
                 </div>
                 <div class="col-md-6">
                     <h4 class="text-center">Server Side DataTable</h4>
+                    <h4 class="text-center">Server Side DataTable</h4>
                     <table class="table table-bordered table-striped table-sm" id="datatable" style="margin-top: 20px;">
                         <thead>
                             <tr>
